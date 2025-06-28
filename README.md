@@ -7,9 +7,12 @@
 ## Objectives
 - The main objetive of this project is:
   1. Use machine learning to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
-  2. 
+  
 ## Methodology:
 The following steps taken:
 1. Clean and prepare data for analysis using Pandas.
 2. Perform data analysis to uncover insights and feature engineering to create new features to improve ML model performance.
 3. Train, test and evaluate the models i.e. LogisticRegression, RandomForestClassifier, KNeighborsClassifier, GaussianNB, Support Vector Classifier (SVC). Select the model that offers the best prediction.
+
+## Model Scores
+## Conclusion

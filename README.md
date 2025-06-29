@@ -15,4 +15,9 @@ The following steps taken:
 3. Train, test and evaluate the models i.e. LogisticRegression, RandomForestClassifier, KNeighborsClassifier, GaussianNB, Support Vector Classifier (SVC). Select the model that offers the best prediction.
 
 ## Model Scores
+
+![Titanic2](https://github.com/user-attachments/assets/fddfb900-87df-4d9e-a1a9-12e495cea2b1)
+![Titanic1](https://github.com/user-attachments/assets/bda6c467-6cc6-4077-93c7-7889f6bee2be)
+
 ## Conclusion
+- Logistic Regression Model has the highest score, therefore the best predictive model.
